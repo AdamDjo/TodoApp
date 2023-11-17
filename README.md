@@ -10,6 +10,7 @@ Open [http://localhost:3001](http://localhost:3001) with your browser to see the
 
 ```bash
 npm run dev
+npm run json-server
 # or
 yarn dev
 # or
